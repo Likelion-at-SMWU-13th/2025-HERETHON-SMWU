@@ -1,3 +1,5 @@
+<img width="2000" height="711" alt="image" src="https://github.com/user-attachments/assets/e8286c75-5948-4de6-a762-868a60d73d44" />
+
 # **2025 여기톤 : HER+ETHON**
 
 > "여기톤"
