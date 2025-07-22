@@ -83,7 +83,7 @@
 
 ### 15팀) FastER
 > **🎤 본선 진출작**
-> SERVICE : 병원 찾기부터 도착까지, 함께하는 FastER
+> <br>SERVICE : 병원 찾기부터 도착까지, 함께하는 FastER
 > <br>MEMBER : [FE 박세은](https://github.com/JMUNG1)
 > <br>GITHUB : [2025-herethon-15](https://github.com/2025-HERETHON/2025-herethon-15)
 <img width="100%" alt="여기톤 통합-11" src="https://github.com/user-attachments/assets/26763eba-964b-4e68-a3cd-b5b29b9414d8" />
