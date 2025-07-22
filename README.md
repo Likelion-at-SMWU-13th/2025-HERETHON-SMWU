@@ -51,19 +51,19 @@
 
 ### 6팀) Oopsie!
 > SERVICE : 성공은 강의가 되지만 실패는 사람이 됩니다. 실패담 공유 커뮤니티 Oopsie!
-> <br>MEMBER : [BE 안성민](https://github.com/)
+> <br>MEMBER : [BE 안성민](https://github.com/minnnnnnni)
 > <br>GITHUB : [2025-herethon-6](https://github.com/2025-HERETHON/2025-herethon-6)
 <img width="100%" alt="여기톤 통합-06" src="https://github.com/user-attachments/assets/83a9e92c-f420-458f-8231-3b950e52ea25" />
 
 ### 9팀) MYworkHER
 > SERVICE : 여성 전문가와 여성 고객을 매칭해주는 온디맨드 플랫폼
-> <br>MEMBER : [PM/PD 김민서](https://github.com/)
+> <br>MEMBER : [PM/PD 김민서](https://github.com/danginseo)
 > <br>GITHUB : [2025-herethon-9](https://github.com/2025-HERETHON/2025-herethon-9)
 <img width="100%" alt="여기톤 통합-07" src="https://github.com/user-attachments/assets/b9793d36-3ff2-48ac-b32b-12d70828ed1b" />
 
 ### 10팀) Emb,on
 > SERVICE : 독립이라는 첫 항해를 시작하는 이들을 위해.
-> <br>MEMBER : [BE 이주원](https://github.com/)
+> <br>MEMBER : [BE 이주원](https://github.com/jwdebbie)
 > <br>GITHUB : [2025-herethon-10](https://github.com/2025-HERETHON/2025-herethon-10)
 <img width="100%" alt="여기톤 통합-08" src="https://github.com/user-attachments/assets/1a715b1e-bf37-4b16-a48b-fa2f5ea69045" />
 
@@ -75,37 +75,37 @@
 
 ### 14팀) N:EXIT
 > SERVICE : 다음을 향한 탈출구, 데이트 폭력 통합 지원 서비스 N:EXIT
-> <br>MEMBER : [FE 이승채](https://github.com/)
+> <br>MEMBER : [FE 이승채](https://github.com/chootkuri)
 > <br>GITHUB : [2025-herethon-14](https://github.com/2025-HERETHON/2025-herethon-14)
 <img width="100%" alt="여기톤 통합-10" src="https://github.com/user-attachments/assets/20eca526-fab4-4e51-9239-cac209fc75d5" />
 
 ### 15팀) FastER
 > SERVICE : 병원 찾기부터 도착까지, 함께하는 FastER
-> <br>MEMBER : [FE 박세은](https://github.com/)
+> <br>MEMBER : [FE 박세은](https://github.com/JMUNG1)
 > <br>GITHUB : [2025-herethon-15](https://github.com/2025-HERETHON/2025-herethon-15)
 <img width="100%" alt="여기톤 통합-11" src="https://github.com/user-attachments/assets/26763eba-964b-4e68-a3cd-b5b29b9414d8" />
 
 ### 17팀)  EraEcho
 > SERVICE : 잊혀진 여성 인물의 이야기를 탐험하고, 퀴즈로 즐겁게 배우며, 학교별 랭킹으로 참여를 유도하는 인터랙티브 역사 체험 플랫폼
-> <br>MEMBER : [FE 정교은](https://github.com/)
+> <br>MEMBER : [FE 정교은](https://github.com/kyooonnnggg)
 > <br>GITHUB : [2025-herethon-17](https://github.com/2025-HERETHON/2025-herethon-17)
 <img width="100%" alt="여기톤 통합-12" src="https://github.com/user-attachments/assets/d631eeb3-659a-48ea-a799-bfd734afbe0a" />
 
 ### 19팀) HERizon
 > SERVICE : HER + Empowerment, 경력 단절 여성의 커리어 성장을 위한 온라인 멘토링 & 커뮤니티 플랫폼
-> <br>MEMBER : [PM/PD 김은지](https://github.com/)
+> <br>MEMBER : [PM/PD 김은지](https://github.com/rladmswl1116)
 > <br>GITHUB : [2025-herethon-19](https://github.com/2025-HERETHON/2025-herethon-19)
 <img width="100%" alt="여기톤 통합-13" src="https://github.com/user-attachments/assets/0d9389fc-dde2-4857-b0fe-e31d781dd72b" />
 
 ### 20팀)  TOOK
 > SERVICE : 여성들의 고민을 있는 그대로, "툭"
-> <br>MEMBER : [FE 박소연](https://github.com/)
+> <br>MEMBER : [FE 박소연](https://github.com/ss0yaa)
 > <br>GITHUB : [2025-herethon-20](https://github.com/2025-HERETHON/2025-herethon-20)
 <img width="100%" alt="여기톤 통합-14" src="https://github.com/user-attachments/assets/fa74c9d5-ca3e-4631-b94f-88691c1eac6c" />
 
 ### 22팀)  틈틈(teumteum)
 > SERVICE : 재취업 여성들을 위한 통합 지원 플랫폼
-> <br>MEMBER : [BE 김보민](https://github.com/)
+> <br>MEMBER : [BE 김보민](https://github.com/bluebomin)
 > <br>GITHUB : [2025-herethon-22](https://github.com/2025-HERETHON/2025-herethon-22)
 <img width="100%" alt="여기톤 통합-15" src="https://github.com/user-attachments/assets/0c573e26-2b2b-4598-953a-424969d0d968" />
 
